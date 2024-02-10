@@ -10,7 +10,7 @@ I created this website to enhance my coding skills and monitor my progress in le
 * All my social media accounts
 * My contact information
 
-## A glimpse or sneak peek
+## Preview
 ![preview](https://github.com/YuthCode/html-portfolio-website/assets/158740967/019df4b1-308d-4fb7-9f18-00b11ba93f44)
 
 ## If you wish to provide support
